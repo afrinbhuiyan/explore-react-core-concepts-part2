@@ -1,0 +1,8 @@
+
+.box{
+    border: 1px solid rgb(243, 9, 224);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: rgba(252, 132, 196, 0.151);
+}
